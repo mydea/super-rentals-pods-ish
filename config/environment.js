@@ -3,7 +3,7 @@
 module.exports = function(environment) {
   let ENV = {
     modulePrefix: 'super-rentals',
-    podModulePrefix: 'super-rentals/pods',
+    podModulePrefix: 'super-rentals',
     environment,
     rootURL: '/',
     locationType: 'auto',
